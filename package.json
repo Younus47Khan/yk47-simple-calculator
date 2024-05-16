@@ -1,6 +1,6 @@
 {
-  "name": "yk47-simple-calculator",
-  "version": "1.0.0",
+  "name": "yk-47-simple-calculator",
+  "version": "1.0.1",
   "description": "A Simple Calculator",
   "main": "index.js",
   "type": "module",
